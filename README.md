@@ -16,12 +16,13 @@ Instale as dependências:
 
 Se você estiver usando npm, execute:
 
-bash
-Copy code
-npm install
-Se você estiver apenas servindo arquivos estáticos, você pode pular esta etapa.
+``bash``
+``Copy code``
+``npm install``
 
-Configure o ambiente:
+Se você estiver apenas servindo arquivos estáticos, você pode pular esta etapa
+
+E pronto, seu codigo esta pronto para rodas
 
 
 
