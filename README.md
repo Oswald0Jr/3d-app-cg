@@ -8,10 +8,11 @@ GLTFLoader (para carregar o modelo 3D)
 Instalação
 Clone o repositório:
 
-bash
-Copy code
-git clone https://github.com/Oswald0Jr/3d-app-cg.git
-cd repository
+``bash``
+``Copy code``
+``git clone https://github.com/Oswald0Jr/3d-app-cg.git``
+``cd repository``
+
 Instale as dependências:
 
 Se você estiver usando npm, execute:
@@ -22,7 +23,7 @@ Se você estiver usando npm, execute:
 
 Se você estiver apenas servindo arquivos estáticos, você pode pular esta etapa
 
-E pronto, seu codigo esta pronto para rodas
+E pronto, seu codigo esta pronto para rodar!
 
 
 
